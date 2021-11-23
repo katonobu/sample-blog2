@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/city-information/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"モデラ・ピークス戸塚自治会 回覧板"}},"markdownRemark":{"id":"947d74f5-ea5d-5e52-bf15-62db1555d18d","excerpt":"横浜くらしナビ 接種会場のご案内","html":"<ul>\n<li>横浜くらしナビ</li>\n<li>接種会場のご案内</li>\n</ul>","frontmatter":{"title":"市・区からのお知らせ","date":"December 01, 2021","description":"City information."}},"previous":null,"next":{"fields":{"slug":"/regional-area-information/"},"frontmatter":{"title":"地区からのお知らせ"}}},"pageContext":{"id":"947d74f5-ea5d-5e52-bf15-62db1555d18d","previousPostId":null,"nextPostId":"979951f4-6265-5871-bfa1-36f67734f33f"}},
+    "staticQueryHashes": ["2841359383","3274528899"]}
