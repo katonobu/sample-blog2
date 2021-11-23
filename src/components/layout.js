@@ -25,9 +25,7 @@ const Layout = ({ location, title, children }) => {
       <header className="global-header">{header}</header>
       <main>{children}</main>
       <footer>
-        © {new Date().getFullYear()}, Built with
-        {` `}
-        <a href="https://www.gatsbyjs.com">Gatsby</a>
+        <p>本ページは試験運用中です。改善点にお気づきの場合、管理室に書面にてお知らせいただけると幸いです。</p>
       </footer>
     </div>
   )
